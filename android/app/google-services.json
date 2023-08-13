@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463823851575",
+    "project_id": "moviez-e60db",
+    "storage_bucket": "moviez-e60db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463823851575:android:45a47f42ff3bf7723dafb2",
+        "android_client_info": {
+          "package_name": "com.example.moviez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463823851575-apr0gfal6a4fbj976voai4a79o9r0l53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1944fmTxfHplESMeKBKbtnjDz5FpZBQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463823851575-apr0gfal6a4fbj976voai4a79o9r0l53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
